@@ -1,4 +1,4 @@
-# 🏀 NBA Data Analytics Project
+# 🏀 NBA Data Engineering & Analytics Project
 
 > *A complete data warehousing and analytics solution for historical NBA data – from raw SQLite to a star‑schema data warehouse in SQL Server, powering interactive Power BI dashboards.*
 
