@@ -73,9 +73,13 @@ Relationships are **one‑to‑many** from dimensions to facts – optimized for
 ## 📂 Repository Structure
 NBA-Data-Analytics-Project/
 ├── Database/ # Cleaned dataset (schema only – sample rows)
+
 ├── DWH/ # SQL scripts for warehouse creation & analytical queries
+
 ├── Power BI/ # Dashboard file (.pbix) and screenshots
+
 ├── docs/ # Additional documentation (optional)
+
 └── README.md # This file
 
 
